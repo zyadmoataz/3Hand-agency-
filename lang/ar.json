@@ -1,0 +1,21 @@
+{
+  "Home": "الرئيسية",
+  "Users": "المستخدمون",
+  "Add User": "إضافة مستخدم",
+  "Edit": "تعديل",
+  "Delete": "حذف",
+  "Settings": "الإعدادات",
+  "Get Started": "ابدأ",
+  "Name": "الاسم",
+  "Email": "البريد الإلكتروني",
+  "Password": "كلمة المرور",
+  "Actions": "الإجراءات",
+  "ID": "الرقم",
+  "Save": "حفظ",
+  "Update": "تحديث",
+  "User created successfully.": "تم إنشاء المستخدم بنجاح.",
+  "User updated successfully.": "تم تحديث المستخدم بنجاح.",
+  "User deleted successfully.": "تم حذف المستخدم بنجاح.",
+  "leave blank to keep current": "اتركه فارغًا للاحتفاظ بالحالي",
+  "Keyboard shortcuts: Alt+H Home, Alt+U Users, Ctrl+A Add": "اختصارات لوحة المفاتيح: Alt+H الرئيسية، Alt+U المستخدمون، Ctrl+A إضافة"
+}

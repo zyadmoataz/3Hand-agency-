@@ -1,0 +1,21 @@
+{
+  "Home": "Home",
+  "Users": "Users",
+  "Add User": "Add User",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "Settings": "Settings",
+  "Get Started": "Get Started",
+  "Name": "Name",
+  "Email": "Email",
+  "Password": "Password",
+  "Actions": "Actions",
+  "ID": "ID",
+  "Save": "Save",
+  "Update": "Update",
+  "User created successfully.": "User created successfully.",
+  "User updated successfully.": "User updated successfully.",
+  "User deleted successfully.": "User deleted successfully.",
+  "leave blank to keep current": "leave blank to keep current",
+  "Keyboard shortcuts: Alt+H Home, Alt+U Users, Ctrl+A Add": "Keyboard shortcuts: Alt+H Home, Alt+U Users, Ctrl+A Add"
+}

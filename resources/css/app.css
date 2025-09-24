@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helpers */
+html.dark { color-scheme: dark; }
+
+/* transitions */
+.btn {
+  @apply inline-flex items-center gap-2 px-4 py-2 rounded shadow-sm transition transform;
+}
